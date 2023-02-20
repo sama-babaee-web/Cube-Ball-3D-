@@ -2,7 +2,7 @@
 
 **Trick Css**
 
-![view](https://user-images.githubusercontent.com/107030945/211267529-90ecf581-c77c-4584-ad6b-7c2eaa7232bd.jpg)
+![ball](https://user-images.githubusercontent.com/107030945/220066968-044efda3-5eb3-41a2-be3c-a83b71760538.png)
 
 - [Demo Project](https://sama-babaee-web.github.io/Cube-Ball-3D-/)
 
